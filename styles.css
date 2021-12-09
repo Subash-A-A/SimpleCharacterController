@@ -15,7 +15,7 @@ body {
 }
 
 .Character_spritesheet {
-  animation: moveSpritesheet 1s steps(4) infinite;
+  animation: moveSpritesheet 0.7s steps(4) infinite;
   width: calc(128px * var(--pixel-size));
   position: absolute;
 }
