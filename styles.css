@@ -30,10 +30,10 @@ body {
   image-rendering: pixelated;
 }
 
-.face-up {
+.face-right {
   top: calc(-32px * var(--pixel-size));
 }
-.face-right {
+.face-up {
   top: calc(-64px * var(--pixel-size));
 }
 .face-left {
